@@ -1,6 +1,4 @@
-Here’s a complete `README.md` draft for your project **CogFlow**, the modular LLM reasoning framework:
 
----
 
 # **CogFlow – A Modular LLM Reasoning Framework**
 
